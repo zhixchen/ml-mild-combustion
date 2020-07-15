@@ -11,7 +11,7 @@
     
   2. Create python-3.7 environment and install tensorflow-2 and other required packages
   
-  3. Once in the evironment, run:
+  3. Once in the environment, run:
   
     $ python IntegratedCode.py
     
