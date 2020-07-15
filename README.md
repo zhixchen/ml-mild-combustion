@@ -1,3 +1,3 @@
 # How to use:
 
-  1. 
+  1. $ mkdir DNS_data
