@@ -6,16 +6,16 @@
 ## Getting started:
 
   * Create a local folder for the DNS data:
+ 
+    `mkdir DNS_data`
   
-    $ mkdir DNS_data
+  * Download the [DNS data](http://www2.eng.cam.ac.uk/~zc252/fileShare/) under `/DNS_data`. Use the following login credentials:
   
-  * Download the [DNS data](http://www2.eng.cam.ac.uk/~zc252/fileShare/) under '/DNS_data'. Use the following login credentials:
+    `username: mlmild`
+    `password: machinelearning`
   
-    - username: mlmild 
-    - password: machinelearning
+  * Once in the environment, run the code using the following command:
   
-  * Once in the environment, run:
-  
-    $ python IntegratedCode.py
+    `python IntegratedCode.py`
     
     
