@@ -11,8 +11,8 @@
   
   * Download the [DNS data](http://www2.eng.cam.ac.uk/~zc252/fileShare/) under '/DNS_data'. Use the following login credentials:
   
-    username: mlmild \n
-    password: machinelearning
+    - username: mlmild 
+    - password: machinelearning
   
   * Once in the environment, run:
   
