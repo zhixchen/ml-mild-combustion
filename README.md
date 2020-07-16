@@ -1,17 +1,20 @@
-# How to use:
+# Machine learning technique for predicting Filtered Density Function (FDF) in MILD combustion
+## Prerequisites
+* Python >= 3.7
+* TensorFlow >= 2.0
 
-  1. Create a local folder for the DNS data:
+## Getting started:
+
+  * Create a local folder for the DNS data:
   
     $ mkdir DNS_data
   
-  2. Download the DNS data from http://www2.eng.cam.ac.uk/~zc252/fileShare/ using the login:
+  * Download the [DNS data](http://www2.eng.cam.ac.uk/~zc252/fileShare/) under '/DNS_data'. Use the following login credentials:
   
     username: mlmild
     password: machinelearning
-    
-  2. Create python-3.7 environment and install tensorflow-2 and other required packages
   
-  3. Once in the environment, run:
+  * Once in the environment, run:
   
     $ python IntegratedCode.py
     
